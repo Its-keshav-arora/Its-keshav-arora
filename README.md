@@ -23,7 +23,7 @@ I'm Keshav Arora, an IITian, passionate Web Developer, and Tech Enthusiast. I ha
 </p>
 
 ## What I Do
-I am a Chemical Engineering student at IIT Ropar, and I love to code and build some real life projects. Currently I'm learning DSA. Want to check my best project ? [Music Player](https://music-player-m50k.onrender.com).  
+I am a B.tech student at IIT Ropar, and I love to code and build some real life projects. Currently I'm learning DSA. Want to check my best project ? [Music Player](https://music-player-m50k.onrender.com).  
 
 
 
