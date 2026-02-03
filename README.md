@@ -1,7 +1,11 @@
 Hi 👋 My name is Keshav Arora
 =============================
 
-I'm Keshav Arora, an IITian, passionate Web Developer, and Tech Enthusiast. I have a keen interest in contributing to open-source projects and staying at the forefront of tech innovations. With a deep passion for development, I enjoy building dynamic and responsive websites and continuously expanding my knowledge in the ever-evolving tech landscape. I am always open to learning new technologies and collaborating on projects that push the boundaries of development.
+Hi, I’m Keshav Arora, an IITian, web developer, and tech enthusiast with a strong passion for building scalable, real-world products. I actively contribute to open-source and enjoy working at the intersection of clean engineering and impactful innovation.
+
+I bring 1.5+ years of internship experience and have worked as a Founding Software Engineer at two startups — BharatLegalChambers (a legal-tech platform for lawyers) and Believeas (a 10-minute food & grocery delivery application for India), where I helped build and scale core product features.
+
+Currently, I’m serving as the Secretary of the Software Community at IIT Ropar, while continuously exploring new technologies and collaborating on projects that push the boundaries of modern development.
 
 * 🌍  I'm based in Bathinda, Punjab
 * ✉️  You can contact me at [keshav11y@gmail.com](mailto:keshav11y@gmail.com)
