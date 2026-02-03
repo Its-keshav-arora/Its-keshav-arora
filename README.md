@@ -27,7 +27,7 @@ Currently, I’m serving as the Secretary of the Software Community at IIT Ropar
 </p>
 
 ## What I Do
-I am a B.tech student at IIT Ropar, and I love to code and build some real life projects. Currently I'm learning DSA. Want to check my best project ? [Music Player](https://music-player-m50k.onrender.com).  
+I am a B.tech student at IIT Ropar, and I love to code and build some real life projects. Currently I'm learning DSA. Want to check my best project ? [AttendX - The Smart Attendance Management System for IIT Ropar](https://www.linkedin.com/posts/keshavarora2006_webdevelopment-iot-fullstackdevelopment-activity-7266188896021938176-qSId?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR4_5MBuakR5L_bPr3FTY4apxWt7Nik9k0).  
 
 
 
